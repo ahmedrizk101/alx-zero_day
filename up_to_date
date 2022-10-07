@@ -1,0 +1,10 @@
+commands used during this task:
+$ git clone
+$ git add
+$ git commit -m
+$ git branch
+$ git switch
+$ git status
+$ git log
+$ git pull
+$ git push 
